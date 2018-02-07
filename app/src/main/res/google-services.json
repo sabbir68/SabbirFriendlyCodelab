@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695077727907",
+    "firebase_url": "https://sabbir-5b9ac.firebaseio.com",
+    "project_id": "sabbir-5b9ac",
+    "storage_bucket": "sabbir-5b9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695077727907:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695077727907-6n22ikjmbrmim1s78ni1bk0sq0iea3iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "9c2d187849a947c8700afdd425d01c7b44b81510"
+          }
+        },
+        {
+          "client_id": "695077727907-h4daaa27mrc0jb0k7kk0oig0q03tgeaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAol245CP29jgCV5zbM-OiSKl68HmwOYxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695077727907-h4daaa27mrc0jb0k7kk0oig0q03tgeaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
